@@ -1,0 +1,2 @@
+# Added ment_category, ment_resume_summary attributes to mentors table
+# Added std_category attribute to students table
